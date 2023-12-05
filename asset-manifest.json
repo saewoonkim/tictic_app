@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tictic_app/static/css/main.14fa0258.css",
+    "main.js": "/tictic_app/static/js/main.6a831bf7.js",
+    "static/js/787.7b6dea5d.chunk.js": "/tictic_app/static/js/787.7b6dea5d.chunk.js",
+    "index.html": "/tictic_app/index.html",
+    "main.14fa0258.css.map": "/tictic_app/static/css/main.14fa0258.css.map",
+    "main.6a831bf7.js.map": "/tictic_app/static/js/main.6a831bf7.js.map",
+    "787.7b6dea5d.chunk.js.map": "/tictic_app/static/js/787.7b6dea5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fa0258.css",
+    "static/js/main.6a831bf7.js"
+  ]
+}
